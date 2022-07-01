@@ -50,6 +50,8 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 * year, 
 * weekday
 
+<img width="785" alt="Screenshot_2022-02-27_at_10 59 17_AM" src="https://user-images.githubusercontent.com/83006335/176858895-b839549c-5f87-4fef-8e9c-aec86b67bd41.png">
+
 ## ETL Pipeline
 The file etl.py contatins ETL pipeline and perforoms the following steps:
 
