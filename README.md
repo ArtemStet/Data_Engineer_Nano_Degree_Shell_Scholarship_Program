@@ -1,6 +1,8 @@
-# Data_Engineer_NanoDegree_Shell_Scholarship_Program
+# Data Engineer NanoDegree Shell Scholarship Program
+
 Here are my projects for Udacity's Data Engineer Program
-Diploma - https://confirm.udacity.com/MGKEZWPP
+
+Certificate of completion - https://confirm.udacity.com/MGKEZWPP
 
 * Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra. (Project 1 and Project 2)
 * Learn to create cloud-based data warehouses and sharpen data warehousing skills, deepen knowledge of data infrastructure, and be introduced to data engineering on the cloud using Azure. (Project 3)
